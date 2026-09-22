@@ -54,3 +54,5 @@ Synexa is a hosted model API for media generation: one REST endpoint and a Pytho
 ## Closing note
 
 None of these are exclusive. A common setup is LiteLLM in front, direct keys for the one or two vendors that dominate spend, NanoGPT for the long tail of text models, and a per-run media API for generation. If the media side is what you are sizing up now, [start with Synexa - FLUX, video and audio models behind one endpoint, pay per run](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=nano-gpt-alternatives&utm_content=readme-top&utm_term=tier-r).
+
+_Last reviewed: 2026-09-22_
